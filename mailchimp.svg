@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="612px" height="153px" viewBox="-6.25 -10.997 612 153"
+	 overflow="visible" enable-background="new -6.25 -10.997 612 153" xml:space="preserve">
+<defs>
+</defs>
+<polygon fill="#D9427E" points="0,130.815 57.718,0 114.667,130.815 "/>
+<ellipse fill="#FCB92A" cx="194.318" cy="77.336" rx="52.716" ry="53.479"/>
+<rect x="267.812" fill="#DA427F" width="97.736" height="42.328"/>
+<ellipse fill="#FBB828" cx="436.35" cy="65.408" rx="64.644" ry="65.407"/>
+<rect x="529.469" y="44.636" opacity="0.5" fill="#3DB3D6" width="70.031" height="40.018"/>
+<rect x="141.602" opacity="0.5" fill="#1C9747" width="105.432" height="76.958"/>
+<rect x="293.208" opacity="0.5" fill="#3DB3D6" width="46.945" height="130.815"/>
+<circle fill="#D83527" cx="436.734" cy="65.03" r="31.168"/>
+</svg>
